@@ -16,8 +16,8 @@ Specialties
 
 Currently working on
 
-UBrowse Explorer - A web browser.
-GDI Program (unnamed) - My own GDI Program I made with C++ in visual studio.
-LeafVerse - A MiiVerse revival.
+-UBrowse Explorer - A web browser.
+-GDI Program (unnamed) - My own GDI Program I made with C++ in visual studio.
+-LeafVerse - A MiiVerse revival.
 
 <img src="https://www.streetisreal.com/ws/alt-imgs/w1600/2410bcd0ad9ffba9e54fbc11957c96ea.webp" alt="Description" width="400">   
