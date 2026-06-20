@@ -1,16 +1,21 @@
-## Hi there 👋
+hey there, i am street :3
+I work on apps, games, and sometimes port the apps itself to other platforms so I can help as many people as possible :3
 
-<!--
-**Streetisreal/Streetisreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages
+C# C++ C, Python, Json Koltin 
 
-Here are some ideas to get you started:
+Specialties
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Unity game developer
+C++, C#, and C app/game developement
+Creating apps for the android os 
+Porting apps 
+Creating Discord Bots by using python
+Android native bridge
+Cross-platform compatibility
+
+Currently working on
+
+UBrowse Explorer - A web browser.
+GDI Program (unnamed) - My own GDI Program I made with C++ in visual studio.
+LeafVerse - A MiiVerse revival.
