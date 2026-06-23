@@ -19,5 +19,6 @@ Currently working on
 - UBrowse Explorer - A web browser.
 - GDI Program (unnamed) - My own GDI Program I made with C++ in visual studio.
 - LeafVerse - A MiiVerse revival.
+- Voice TTS - A program that lets you speak in tts (isnt released yet, finished though)
 
 <img src="https://www.streetisreal.com/ws/alt-imgs/w1600/2410bcd0ad9ffba9e54fbc11957c96ea.webp" alt="Description" width="400">   
